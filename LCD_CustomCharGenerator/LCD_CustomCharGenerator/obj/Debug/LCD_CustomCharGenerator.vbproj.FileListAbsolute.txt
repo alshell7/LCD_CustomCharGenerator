@@ -1,0 +1,10 @@
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\bin\Debug\LCD_CustomCharGenerator.exe.config
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\bin\Debug\LCD_CustomCharGenerator.exe
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\bin\Debug\LCD_CustomCharGenerator.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\bin\Debug\LCD_CustomCharGenerator.xml
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\obj\Debug\LCD_CustomCharGenerator.Resources.resources
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\obj\Debug\LCD_CustomCharGenerator.vbproj.GenerateResource.Cache
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\obj\Debug\LCD_CustomCharGenerator.exe
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\obj\Debug\LCD_CustomCharGenerator.xml
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\obj\Debug\LCD_CustomCharGenerator.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\LCD_CustomCharGenerator\LCD_CustomCharGenerator\obj\Debug\LCD_CustomCharGenerator.MainForm.resources
