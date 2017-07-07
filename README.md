@@ -3,12 +3,12 @@ A simple offline utility app for LCD (most probably for 16x2) to generate custom
 
 ![Image of uhtml app](https://github.com/alshell7/LCD_CustomCharGenerator/blob/master/lcd_custom_char_gen.PNG)
 
-##Features
+## Features
 * Mimics exactly of the web version Custom Character Generator.
 * Simple options like `Clear`, `Invert` and `Select All` operations on the pixels.
 * Generates the complete Arduino code for use of that character.
 
-##License
+## License
 The MIT License (MIT)
 Copyright (c) 2016 alshell7
 
